@@ -1,0 +1,35 @@
+body{
+    background-color: #fd7e14;
+}
+.container{
+    width: 90%;
+    overflow: hidden;
+    margin:100px auto;
+    background-color: #fd7e14;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    
+}
+.heading{
+    cursor: pointer;
+    background:#e83e8c;
+    margin:0px;
+    padding: 1px;
+    border-bottom: 1px solid#ffc107;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    font-size: 2rem;
+  font-weight: 300;
+  text-transform: capitalize;
+}
+.parragraph{
+    margin: 0px;
+    padding: 10px ;
+    background-color:  #17a2b8;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+
+
+
